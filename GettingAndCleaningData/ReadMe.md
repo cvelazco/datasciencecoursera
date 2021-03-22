@@ -13,7 +13,7 @@ Data: [UC Irvine Repo](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfi
 
 Goal | Item 
 --- | ---
-      Analysis R Script |  run_analysis.R 
+Analysis R Script |  run_analysis.R 
 Tidy Data Set |  tidyData.txt 
 Github Repo | [Repo](https://github.com/cvelazco/datasciencecoursera/GettingAndCleaningData)
 Cookbook | CodeBook.md 
